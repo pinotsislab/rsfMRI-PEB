@@ -1,6 +1,4 @@
-# RAT_DCM_OPTO_SOMATOSENSORY (Bricault, Fränken, Jasanoff, & Pinotsis, in prep)
-
-code for the DCM and PEB analysis for the resting state fMRI data 
+# code for the DCM and PEB analysis for the resting state fMRI data 
 
 paper currently in preparation. However, someone interested in analysing resting state fMRI data with DCM and PEB might find the specifications for the DCMs and PEBs useful. Please read this article for further background information on PEB: 
 
