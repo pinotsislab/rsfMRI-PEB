@@ -1,4 +1,4 @@
-# code for the DCM and PEB analysis for the resting state fMRI data 
+# code for the DCM and PEB analysis of resting state fMRI data 
 
 Paper currently in preparation. Useful reference:
 
